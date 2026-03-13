@@ -77,37 +77,37 @@
 ## 📸 Screenshots
 
 ### 🏠 Welcome Screen & Main Menu
-![Welcome Screen](screenshots/welcome.png)
+<img width="630" height="326" alt="Screenshot 2026-03-13 172912" src="https://github.com/user-attachments/assets/59d1bad1-ff7a-427d-8309-3ebe427cc2e4" />
 
 ---
 
 ### 📐 Case 1 — Array Creation & Slicing
-![Array Creation](screenshots/case1_array.png)
+<img width="694" height="785" alt="Screenshot 2026-03-13 183648" src="https://github.com/user-attachments/assets/3d571830-55c2-43c9-a6d0-5f80d3a6594a" />
 
 ---
 
 ### ➗ Case 2 — Matrix Multiplication
-![Math Operations](screenshots/case2_math.png)
+<img width="534" height="590" alt="Screenshot 2026-03-13 183731" src="https://github.com/user-attachments/assets/f33e8f0e-cd36-45de-a0a3-94097383a1bc" />
 
 ---
 
 ### 🔗 Case 3 — Combine Arrays (Horizontal Stack)
-![Combine Arrays](screenshots/case3_combine.png)
+<img width="575" height="646" alt="Screenshot 2026-03-13 183808" src="https://github.com/user-attachments/assets/265e6cda-b304-4e17-bbf9-7109306aa473" />
 
 ---
 
 ### 🔃 Case 4 — Sort (Descending, Column-Wise)
-![Sort](screenshots/case4_sort.png)
+<img width="403" height="544" alt="Screenshot 2026-03-13 183923" src="https://github.com/user-attachments/assets/3279df8c-55a7-4f7e-a26b-3cfd330e8ba4" />
 
 ---
 
 ### 📊 Case 5 — Aggregation (Sum)
-![Aggregation](screenshots/case5_agg.png)
+<img width="288" height="444" alt="Screenshot 2026-03-13 184003" src="https://github.com/user-attachments/assets/c46b4015-cdb1-4060-8b2b-ce281cbfffe6" />
 
 ---
 
 ### 🚪 Exit
-![Exit](screenshots/exit.png)
+<img width="377" height="238" alt="Screenshot 2026-03-13 184021" src="https://github.com/user-attachments/assets/a85a2654-b759-4250-b48c-35e81c32c9b1" />
 
 ---
 
