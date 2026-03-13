@@ -313,26 +313,10 @@ NumPy_Analyzer/
 
 [![GitHub](https://img.shields.io/badge/GitHub-RENSEE--GAJIPARA-181717?style=for-the-badge&logo=github)](https://github.com/RENSEE-GAJIPARA)
 
-*Red & White Skill Education — Project PR.8*
 
 </div>
 
 ---
 
-## 📝 How to Add Screenshots
 
-> **For GitHub to display screenshots correctly:**
-> 1. Take screenshots while running `Numpy_Analyzer.py`
-> 2. Create a `screenshots/` folder in the repo root
-> 3. Save images with the exact filenames listed above
-> 4. Push to GitHub — images appear automatically ✅
 
----
-
-<div align="center">
-
-⭐ **If you found this project useful, give it a star!** ⭐
-
-*Made with ❤️ and lots of arrays*
-
-</div>
